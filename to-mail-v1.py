@@ -13,7 +13,7 @@ print ("   ██║   ██║   ██║██║╚██╔╝██║█
 print ("   ██║   ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║███████╗")
 print ("   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝")
 print ("  TO MAIL SCRİPT V1.0 | CODED BY R4POR-T")
-print ("  contact: www.instagram.com/onurcan.r00t")
+print ("  contact: www.instagram.com/onurcan.r00t | github https://github.com/R4PORT/to-mail.git")
 print ("  mail: root@teknoalerji.com")
 print ("")
 print ("Lütfen Yapmak istediniz secenegi secin.")
